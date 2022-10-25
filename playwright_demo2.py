@@ -2,8 +2,6 @@ from playwright.sync_api import sync_playwright
 
 
 url = 'https://the-internet.herokuapp.com/'
-expected_url = 'https://the-internet.herokuapp.com/secure'
-
 username = 'tomsmith'
 password = 'SuperSecretPassword!'
 
@@ -17,4 +15,7 @@ with sync_playwright() as p:
     page.fill('input#password', password)
     page.click('button[type=submit]')
     print('Login successful!') if page.is_visible(':has-text("You logged into a secure area!")') else print('Login failed!')
+    
+    page.close()
+    browser.close()
     
