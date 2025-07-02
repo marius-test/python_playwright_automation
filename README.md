@@ -4,7 +4,7 @@ A demonstration of web automation using **Playwright** in Python.
 
 This repository contains example scripts to help you get started with Playwright, combined with scraping via **BeautifulSoup4** and other libraries.
 
-### Libraries Used
+### Libraries
 
 - playwright  
 - beautifulsoup4  
