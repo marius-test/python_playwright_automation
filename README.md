@@ -1,4 +1,4 @@
-# python_playwright
+# python_playwright_automation
 
 A demonstration of web automation using **Playwright** in Python.
 
