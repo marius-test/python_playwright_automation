@@ -26,4 +26,4 @@ This repository contains example scripts to help you get started with Playwright
 
 ### Purpose
 
-This project is for learning and experimenting with Playwright Python library, combining browser automation with HTML parsing techniques.
+This project explores the Playwright Python library, integrating browser automation with advanced HTML parsing techniques.
