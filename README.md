@@ -4,7 +4,7 @@ A demonstration of web automation using **Playwright** in Python.
 
 ### Purpose
 
-This project explores the Playwright Python library, integrating browser automation with advanced HTML parsing techniques.
+This project explores the Playwright Python library, integrating browser automation with HTML parsing techniques.
 
 ---
 
